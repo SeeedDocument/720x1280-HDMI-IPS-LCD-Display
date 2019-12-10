@@ -6,7 +6,7 @@ wikiurl:
 sku: 104990443
 ---
 
-![](https://raw.githubusercontent.com/SeeedDocument/R720x1280-HDMI-IPS-LCD-Display/master/img/demo7.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/720x1280-HDMI-IPS-LCD-Display/master/img/demo7.jpg)
 
 在这里，我们为您提供这种高分辨率，超宽视角IPS HDMI显示器。具体地说，此显示器的分辨率为720 * 1280，视角高达178度的两倍。它小巧轻便，便于携带。无需驱动程序。我们使用树莓派3b/3b+/4b+和Windows10对其进行了测试。
 
@@ -43,12 +43,12 @@ sku: 104990443
 | 后支架 |1|
 |树莓派安装螺丝袋|1|
 
-![](https://raw.githubusercontent.com/SeeedDocument/R720x1280-HDMI-IPS-LCD-Display/master/img/4.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/720x1280-HDMI-IPS-LCD-Display/master/img/4.jpg)
 
 ##  硬件概述
 -----------------
 
-![](https://raw.githubusercontent.com/SeeedDocument/R720x1280-HDMI-IPS-LCD-Display/master/img/7inch.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/720x1280-HDMI-IPS-LCD-Display/master/img/7inch.jpg)
 
 ##  使用方法
 -----
@@ -100,16 +100,15 @@ framebuffer_height=1200
 
 完成上面操作后，你只需要重启系统应该就可以看到树莓派的桌面在屏幕上面显示了
 
-![](https://raw.githubusercontent.com/SeeedDocument/R720x1280-HDMI-IPS-LCD-Display/master/img/pi-desktop.png)
+![](https://raw.githubusercontent.com/SeeedDocument/720x1280-HDMI-IPS-LCD-Display/master/img/pi-desktop.png)
 
 假如屏幕是竖屏显示的，我们只需要按照下图的说明，旋转成横屏即可
 
-![](https://raw.githubusercontent.com/SeeedDocument/R720x1280-HDMI-IPS-LCD-Display/master/img/Screen-Config.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/720x1280-HDMI-IPS-LCD-Display/master/img/Screen-Config.jpg)
 
 ### 与 Raspberry Pi3/3b+ 一起使用
 
 直接按照下面的文档说明操作即可
 [树莓派3操作指南](https://docs.google.com/viewer?url=https://github.com/SeeedDocument/Pi_screen/raw/master/Instructions_for_use.pdf)
-
 
 <!-- This Markdown file was created from http://www.seeedstudio.com/wiki/Raspberry_Pi_Relay_Board_v1.0 -->
